@@ -8,7 +8,7 @@
 
 
 
-
+<h2 align="center">My Stats</h2>
 
 
 [![](https://raw.githubusercontent.com/MeteTatar/MeteTatar/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
