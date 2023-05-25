@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mete Tatar</h1>
-<p>I am an electronic communication technology student at Gaziantep University.</p>
-<p>I started software in high school and continue at university. I want to improve myself in this field.</p>
+<p>I am an electronic communication technology student at Gaziantep University.I started software in high school and continue at university. I want to improve myself in this field.</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
